@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="204px" height="212px" viewBox="0 0 204 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Bubble</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-42.7%" y="-41.4%" width="185.4%" height="182.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.164705882   0 0 0 0 0.266666667  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="👈-Tooltips" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.Elements-/Hover-Elements-/-Complex-Tooltips-/Tooltip-[4-Values+Total]" transform="translate(28.000000, 15.000000)" fill="#F5F5F5" stroke="#E0E0E0">
+            <g id="4.Elements-/Bubble-/-Left">
+                <g id="Bubble" filter="url(#filter-1)" transform="translate(-6.000000, 0.000000)">
+                    <path d="M153,0 C155.209139,-4.05812251e-16 157,1.790861 157,4 L157,158 C157,160.209139 155.209139,162 153,162 L10,162 C7.790861,162 6,160.209139 6,158 L5.99901136,84.166 L0.877029552,79.6842579 C0.0457562885,78.9568938 -0.0384787272,77.6933685 0.688885378,76.8620953 C0.747354228,76.7952737 0.810208009,76.7324199 0.877029552,76.6739511 L5.99901136,72.191 L6,4 C6,1.790861 7.790861,4.05812251e-16 10,0 L153,0 Z" id="BG"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
