@@ -7,9 +7,3 @@
 ![1 (4)](https://user-images.githubusercontent.com/55789071/71783745-3556e880-3026-11ea-8ae6-38ce6baa02ae.jpg)
 ![1 (5)](https://user-images.githubusercontent.com/55789071/71783746-3556e880-3026-11ea-8a0d-2c61f61d5a82.jpg)
 
-
-Hello, Thanks for your inviting.
-This is real time chart for data-visualization.
-and This used to firebase API.
-Frontend is implemented by using the React.
-Chart is implemented by using D3.js
